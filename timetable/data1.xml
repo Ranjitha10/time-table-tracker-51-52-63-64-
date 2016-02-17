@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RVCE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="data2.xsd">
+	<FACULTY>
+		<NUM>1</NUM>
+		<INITIALS>NKC</INITIALS>
+		<NAME>Dr.N.Cauvery</NAME>
+		<DESIGNATION>HOD</DESIGNATION>
+		<PHONE>45454354</PHONE>
+		<EMAIL>cauvery@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+		<NUM>2</NUM>
+		<INITIALS>ABS</INITIALS>
+		<NAME>Anisha BS</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>8768676</PHONE>
+		<EMAIL>anisha@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+		<NUM>3</NUM>
+		<INITIALS>KSN</INITIALS>
+		<NAME>Kavitha SN</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>kavitha@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+	<NUM>4</NUM>
+		<INITIALS>BKS</INITIALS>
+		<NAME>Srinivas BK</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>srinivas@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+		<NUM>5</NUM>
+		<INITIALS>BMS</INITIALS>
+		<NAME>Sagar BM</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>sagar@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+		<NUM>6</NUM>
+		<INITIALS>CRM</INITIALS>
+		<NAME>Chetana Murthy</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>chetana@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+		<NUM>7</NUM>
+		<INITIALS>DP</INITIALS>
+		<NAME>Priya D</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>priya@gmail.com</EMAIL>
+		<TIMINGS>Monday:3-4
+				 Tuesday:1-2
+				 Wednesday:12-2	
+				 Thursday:10-11
+				 Friday:9-10</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+		<NUM>8</NUM>
+		<INITIALS>GCN</INITIALS>
+		<NAME>Nagraj GC</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>nagraj@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY>
+		<FACULTY>
+		<NUM>9</NUM>
+		<INITIALS>GNS</INITIALS>
+		<NAME>Srinivasan GN</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>gns@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY><FACULTY>
+	<NUM>10</NUM>
+		<INITIALS>GRS</INITIALS>
+		<NAME>GR Smitha</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>grs@gmail.com</EMAIL>
+		<TIMINGS>Monday:3-4
+				 Tuesday:1-2
+				 Wednesday:12-2	
+				 Thursday:10-11
+				 Friday:9-10</TIMINGS>
+	</FACULTY><FACULTY>
+	<NUM>11</NUM>
+		<INITIALS>GSM</INITIALS>
+		<NAME>Mamatha GS</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>gsm@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY><FACULTY>
+	<NUM>12</NUM>
+		<INITIALS>GV</INITIALS>
+		<NAME>Geetha V</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>gv@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY><FACULTY>
+	<NUM>13</NUM>
+		<INITIALS>JM</INITIALS>
+		<NAME>Jitendranath Mungara</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>jm@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY><FACULTY>
+	<NUM>14</NUM>
+		<INITIALS>MM</INITIALS>
+		<NAME>Merin Meleet</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>mm@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+		
+	</FACULTY><FACULTY>
+	<NUM>15</NUM>
+		<INITIALS>PK</INITIALS>
+		<NAME>Poornima K</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>pk@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY><FACULTY>
+	<NUM>16</NUM>
+		<INITIALS>PT</INITIALS>
+		<NAME>Padmashree T</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>pt@gmail.com</EMAIL>
+		<TIMINGS>Monday:3-4
+				 Tuesday:1-2
+				 Wednesday:12-2	
+				 Thursday:10-11
+				 Friday:9-10</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+	<NUM>17</NUM>
+		<INITIALS>RBS</INITIALS>
+		<NAME>Rekha BS</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>rbs@gmail.com</EMAIL>
+		<TIMINGS>Monday:3-4
+				 Tuesday:1-2
+				 Wednesday:12-2	
+				 Thursday:10-11
+				 Friday:9-10</TIMINGS>
+	</FACULTY>
+	<FACULTY>
+	<NUM>18</NUM>
+		<INITIALS>RMS</INITIALS>
+		<NAME>Rajashekar Murthy</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>rms@gmail.com</EMAIL>
+		<TIMINGS>Monday:3-4
+				 Tuesday:1-2
+				 Wednesday:12-2	
+				 Thursday:10-11
+				 Friday:9-10</TIMINGS>
+	</FACULTY><FACULTY>
+	<NUM>19</NUM>
+		<INITIALS>RR</INITIALS>
+		<NAME>Rashmi R</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>rms@gmail.com</EMAIL>
+		<TIMINGS>Monday:3-4
+				 Tuesday:1-2
+				 Wednesday:12-2	
+				 Thursday:10-11
+				 Friday:9-10</TIMINGS>
+	</FACULTY><FACULTY>
+	<NUM>20</NUM>
+		<INITIALS>PR</INITIALS>
+		<NAME>Pawan Ravi</NAME>
+		<DESIGNATION>Assistant Professor</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>pr@gmail.com</EMAIL>
+		<TIMINGS>3-4</TIMINGS>
+	</FACULTY>
+</RVCE>

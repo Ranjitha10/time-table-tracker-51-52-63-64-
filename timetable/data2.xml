@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RVCE>
+	<FACULTY>
+		<NAME>Dr.Cauvery</NAME>
+		<DESIGNATION>HOD, ISE Department</DESIGNATION>
+		<PHONE>45454354</PHONE>
+		<EMAIL>cauvery@gmail.com</EMAIL>
+		
+	</FACULTY>
+	<FACULTY>
+		<NAME>Anisha BS</NAME>
+		<DESIGNATION>Assistant Professor, TT Incharge ISE</DESIGNATION>
+		<PHONE>8768676</PHONE>
+		<EMAIL>anisha@gmail.com</EMAIL>
+		
+	</FACULTY>
+	<FACULTY>
+		<NAME>Kavitha SN</NAME>
+		<DESIGNATION>Assistant Professor, TT Incharge ISE</DESIGNATION>
+		<PHONE>6545646514</PHONE>
+		<EMAIL>kavitha@gmail.com</EMAIL>
+		
+	</FACULTY>
+</RVCE>
